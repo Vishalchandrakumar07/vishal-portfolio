@@ -8,6 +8,7 @@ const projects = [
     description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB.',
     image: 'Design.jpeg',
   },
+  
   {
     title: 'Meals Generater App',
     description: 'A responsive task management application built with Next.js and GraphQL.',
