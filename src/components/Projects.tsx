@@ -10,7 +10,7 @@ const projects = [
   },
   
   {
-    title: 'Meals Generater App',
+    title: 'Meals Generater AI',
     description: 'A responsive task management application built with Next.js and GraphQL.',
     image: 'Designer.jpeg',
   },
